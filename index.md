@@ -7,11 +7,10 @@ sections:
     section_id: hero_section
     background_image: images/header.jpg
     background_image_opacity: 80
-    content: >-
-      # Real, beautiful plants right to your door
+    content: |
+      # రాజు ప్రకృతి వ్యవసాయ క్షేత్రం
 
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+      ###### Subscribe to our consistent pricing
     actions:
       - title: See all items
         url: /store
