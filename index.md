@@ -10,8 +10,6 @@ sections:
     content: |
       # రాజు ప్రకృతి వ్యవసాయ క్షేత్రం
 
-      ######
-
       Subscribe to our consistent pricing
     actions:
       - title: More Heirlooms
